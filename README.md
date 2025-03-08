@@ -46,5 +46,5 @@ WHOIS lookup may not always be available due to privacy restrictions.
 
 Author
 
-This script is designed for email validation and filtering tasks to ensure deliverability.
+This script is designed for email validation and filtering tasks to ensure deliverability and checking whether the emails in the text file.
 
