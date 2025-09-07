@@ -77,3 +77,5 @@ def main():
 # Run main function when script is executed
 if __name__ == "__main__":
     main()
+
+# Run this file through your cmd to fetch the list of emails
