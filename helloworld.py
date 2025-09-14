@@ -1,3 +1,5 @@
+# use it in commanc line interface
+
 from pyisemail import is_email  # Library to validate email format and DNS
 import dns.resolver  # Used to get MX records of a domain
 import smtplib  # Used to verify SMTP server availability
@@ -79,3 +81,4 @@ if __name__ == "__main__":
     main()
 
 # Run this file through your cmd to fetch the list of emails
+
